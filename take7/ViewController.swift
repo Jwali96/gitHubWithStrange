@@ -5,6 +5,10 @@
 //  Created by Jude Walinder on 1/9/15.
 //  Copyright (c) 2015 Jude Walinder. All rights reserved.
 //
+//put your name in Mr. Strange
+//
+//
+//
 
 import UIKit
 
